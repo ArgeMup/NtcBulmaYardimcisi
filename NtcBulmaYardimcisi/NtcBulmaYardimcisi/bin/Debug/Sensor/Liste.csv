@@ -1,0 +1,3 @@
+Üretici,ÜreticiKodu,Açıklama,Pdf(Dosya yolu),T1 (-##.###),R1Min (##.###),R1Mak (-#.#),T2,R2Min,R2Mak,T3,R3Min,R3Mak,...
+ArgeMup,HtcHesaplamaYardimcisi,NTC değerlerini hesaplar,C:\xxx\yyy,-10.5,900.9,1100.1,25,450,550,150,45,55, ... gibi 
+ArgeMup2,HtcHesaplamaYardimcisi2,NTC değerlerini hesaplar2,C:\xxx2\yyy2,-10.5,900.9,1100.1,25,450,550,150,45,55, ... gibi 
